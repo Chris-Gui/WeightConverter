@@ -34,7 +34,7 @@ under bin folder
 Test
 -----
 Please run 'bundle install' to install all dependencies, Rspec here only.
-then run command
+Then run command
 'rspec spec/lib'
 under project folder
 
