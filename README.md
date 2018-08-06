@@ -13,9 +13,8 @@ multiplication.
 
 Language
 -----
-I choose to use ruby, since I have been using it for past three years. It's fast and easy to read
-language. Also, it has many packages for building function as well as testing. We use Rspec for test
-here only.
+I choose to use ruby, since I have been using it for past three years. It's fast to write and easy to read. 
+Also, it has many packages for building function as well as testing. We use Rspec for test here only.
 
 Design decision
 -----
