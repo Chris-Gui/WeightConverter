@@ -45,8 +45,13 @@ Input:
 
 Output:
 table           13.607771 c
+
 chair           6.803886 c
+
 ball            2.267962 c
+
 ok
+
 Max weight was 13.6077711 c in table
+
 Min weight was 2.2679618500000003 c in ball
