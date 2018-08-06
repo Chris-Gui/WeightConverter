@@ -41,9 +41,11 @@ under project folder
 Sample Input and Output
 -----
 Input:
+
 [['table', 'l', 30], ['chair','l', 15], ['ball', 'l', 5]]
 
 Output:
+
 table           13.607771 c
 
 chair           6.803886 c
