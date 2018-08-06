@@ -38,7 +38,7 @@ Then run command
 'rspec spec/lib'
 under project folder
 
-Simple Input and Output
+Sample Input and Output
 -----
 Input:
 [['table', 'l', 30], ['chair','l', 15], ['ball', 'l', 5]]
