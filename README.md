@@ -1,4 +1,4 @@
-weight converter
+Weight Converter
 -----
 
 Description
